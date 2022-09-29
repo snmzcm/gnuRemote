@@ -3,6 +3,9 @@ Simple remote control app for basic needs.
 This app helps you to control your computer and apply your basic needs such as shutting it down or locking the screen.
 As long as your desired controller device will remain connected to same network with your computer, app will work. 
 
+Where the idea came from?
+I am using a Raspberry Pi. In order to control it with a remote app you have two options. Either you choose a SSH connection application or a VNC connection application. VNC connections are slow and freezing for me. Also I don't like to go through an SSH and write appropriate commands to shutdown my pi. So it is handy for me. I am aware there are lots of oppurtunities, many applications to use but I prefer to do write my very own solution.
+
 
 ### Prerequisites
 Python3
