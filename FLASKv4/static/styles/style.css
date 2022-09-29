@@ -1,0 +1,46 @@
+body {
+  background-color: #8a8a8a;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: auto;
+    background-color: #8a8a8a;
+  }
+
+li:hover{
+  background-color: #909090 !important 
+}
+  
+  li {
+    display: block;
+    color: #000;
+    padding: 4px 10px;
+    text-decoration: none;
+    text-align: center;
+  }
+  
+  /* Change the link color on hover */
+  .btn{
+    border-radius: 0%;
+    border: 1px black;
+  }
+  .btn:hover {
+    /* background-color: #0470e3; */
+    color: white;
+  }
+
+  .menu {
+    align-items: center;
+    position: absolute;
+    width: 100%;
+  }
+
+  h3 {
+    color: black;
+    border: 1px black solid;
+    padding: 25px;
+    background-color: #bababa;
+  }
+
