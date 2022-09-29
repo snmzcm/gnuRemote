@@ -4,6 +4,17 @@ This app helps you to control your computer and apply your basic needs such as s
 As long as your desired controller device will remain connected to same network with your computer, app will work. 
 
 
+### Prerequisites
+Python3
+ ```
+https://www.python.org/downloads/
+ ```
+ Flask
+  ```
+ Pip install flask
+ --OR--
+[ pip install Flask](https://pypi.org/project/Flask/)
+  ```
 ##  Usage
 
 1. Unzip it.
