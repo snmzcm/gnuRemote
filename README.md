@@ -13,7 +13,7 @@ https://www.python.org/downloads/
   ```
  Pip install flask
  --OR--
-[ pip install Flask](https://pypi.org/project/Flask/)
+https://pypi.org/project/Flask/
   ```
 ##  Usage
 
@@ -43,6 +43,6 @@ Distributed under GNU General Public License. See `LICENSE` for more information
 
 
 [license-shield]: https://img.shields.io/github/license/snmzcm/repo.svg?style=for-the-badge
-[license-url]: https://github.com/snmzcm/simpleCenc/blob/main/LICENSE
+[license-url]: https://github.com/snmzcm/gnuRemote/blob/main/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://www.linkedin.com/in/cem-sönmez-01a58a196/
+[linkedin-url]: https://www.linkedin.com/in/cemsnmz/
